@@ -14,11 +14,13 @@ different fonts, and each letter in these fonts was randomly distorted.
   Each letter was presented in different styles and distortions ensures data diversity.
 
   <h2>Results: </h2>
-  ![image](https://github.com/miki820/Letter-Recognition/assets/154281061/27405aa9-f758-49ee-a384-1667f91c45b4)
+  
+  ![image](https://github.com/miki820/Letter-Recognition/assets/154281061/dc25e677-1f94-4312-bec4-f97ac3a38543)
   
   ![image](https://github.com/miki820/Letter-Recognition/assets/154281061/ba2686a7-1e3a-4831-b5d8-789a648a4ca1)
-  
-  ![Uploading image.png…]()
+
+  ![image](https://github.com/miki820/Letter-Recognition/assets/154281061/26984569-c96f-45da-af60-b5463c921e63)
+
 
 
 
