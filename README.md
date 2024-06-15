@@ -12,3 +12,13 @@ different fonts, and each letter in these fonts was randomly distorted.
 
 - Decision class distribution: The decision classes are the letters of the alphabet and their distribution isuniform. 
   Each letter was presented in different styles and distortions ensures data diversity.
+
+  <h2>Results: </h2>
+  ![image](https://github.com/miki820/Letter-Recognition/assets/154281061/27405aa9-f758-49ee-a384-1667f91c45b4)
+  
+  ![image](https://github.com/miki820/Letter-Recognition/assets/154281061/ba2686a7-1e3a-4831-b5d8-789a648a4ca1)
+  
+  ![Uploading image.png…]()
+
+
+
